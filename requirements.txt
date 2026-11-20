@@ -1,0 +1,11 @@
+numpy
+pandas
+requests
+matplotlib
+pillow
+tqdm
+scikit-learn
+xgboost
+torch
+torchvision
+jupyter
