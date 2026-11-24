@@ -35,9 +35,6 @@ Everything lands in `outputs/`:
 | `events_per_year.csv` | Event counts per year |
 | `figures/*.png` | All charts for the report and slides |
 
-## Submitting
-
-Submit the notebook **after** Run All, so it contains all outputs (a course requirement). The `data/` folder is large; if you cannot upload it, describe it with the README text above: the data is public and the notebook re-downloads it.
 
 ## Settings you might change
 
